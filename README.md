@@ -2,15 +2,6 @@
 
 **Scalable-Real-Time-Chat-App** is a robust real-time chat platform designed for scalability, performance, and reliability. Built with modern technologies like Kubernetes, Redis, Node.js, React, and Docker, it provides seamless communication for enterprise-grade applications.
 
----
-
-## Project Builder
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/akhilreddy030"><img src="https://avatars.githubusercontent.com/u/115966808?v=4" width="100px;" alt=""/><br /><sub><b>Akhil Reddy Pabbathi Reddy</b></sub></a></td>
-  </tr>
-</table>
 
 ---
 
